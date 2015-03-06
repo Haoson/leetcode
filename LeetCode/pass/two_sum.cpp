@@ -2,7 +2,7 @@
   > File Name: two_sum.cpp
   > Author:Haoson 
   > Created Time: Sun 01 Mar 2015 10:14:57 AM PST
-  > Description: 
+  > Description:解题思路：使用Hash表，存储每个数以及对应的下标 
  ************************************************************************/
 
 #include<iostream>
