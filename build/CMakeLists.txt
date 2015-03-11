@@ -1,5 +1,5 @@
 PROJECT(main) 
-SET(SRC_LIST ~/workspace/github-project/leetcode/LeetCode/sum_root_to_leaf_numbers.cpp) 
+SET(SRC_LIST ~/workspace/github-project/leetcode/LeetCode/palindrome_partitioning.cpp) 
 SET(CMAKE_CXX_COMPILER "clang++") 
 SET (CMAKE_CXX_FLAGS_DEBUG "-g")
 SET(CMAKE_CXX_FLAGS "-std=c++11 -stdlib=libc++ -Werror -Weverything -Wno-unused-parameter -Wno-unused-variable -Wno-unused-private-field -Wno-deprecated-declarations -Wno-disabled-macro-expansion -Wno-float-equal -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-global-constructors -Wno-exit-time-destructors -Wno-missing-prototypes -Wno-padded")
